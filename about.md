@@ -1,1 +1,1 @@
-This is th about page.
+This is the about page.
