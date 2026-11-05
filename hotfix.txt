@@ -1,1 +1,3 @@
-hotfix applied
+=
+hotfix config for prod
+>>>>>>> fbd778d (add prod config fix)
